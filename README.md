@@ -49,16 +49,12 @@ My goal: turn real problems into products, iterate quickly, and learn in public.
 
 ## Certifications
 <div>
-  <img alt="Google Prompting Essentials" src="https://img.shields.io/badge/Google%20Prompting%20Essentials-4285F4?style=flat&logo=google&logoColor=white" />
-  <img alt="Google AI Essentials" src="https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=flat&logo=google&logoColor=white" />
-</div>
-
----
-
-## GitHub
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harsh-0602&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-0602&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://drive.google.com/file/d/1BbCGv-KoAyZHtNkJHYQaDr9V-D0OuKay/view?usp=drive_link" target="_blank">
+    <img alt="Google Prompting Essentials" src="https://img.shields.io/badge/Google%20Prompting%20Essentials-4285F4?style=flat&logo=google&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1YSH7AjltPbejV_lSPwp3P74PkiVWiWxS/view?usp=drive_link" target="_blank">
+    <img alt="Google AI Essentials" src="https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=flat&logo=google&logoColor=white" />
+  </a>
 </div>
 
 ---
