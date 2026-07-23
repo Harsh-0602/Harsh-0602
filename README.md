@@ -26,6 +26,8 @@ My goal: turn real problems into products, iterate quickly, and learn in public.
 ## Featured projects
 | Project | Summary | Link |
 |---|---|---|
+| 📧 **MAP-001-AI-Email-Auto-Reply** | AI automation that generates and sends professional email replies using n8n + Gemini. | [Repo](https://github.com/Harsh-0602/MAP-001-AI-Email-Auto-Reply) |
+| 🎯 **MAP-002-AI-Lead-Qualification** | AI workflow that scores and classifies incoming leads automatically. | [Repo](https://github.com/Harsh-0602/MAP-002-AI-Lead-Qualification) |
 | 🔍 **resume-intelligence-ai** | AI explains why resumes get rejected + suggests improvements for ATS compatibility. | [Repo](https://github.com/Harsh-0602/resume-intelligence-ai) |
 | 🤖 **SupportBridge** | AI support automation for SaaS teams (human‑in‑the‑loop). Currently onboarding early customers. | [Website](https://supportbridge.tech) |
 | 📊 **commitscope** | Lightweight GitHub commit analytics & experiments. | [Repo](https://github.com/Harsh-0602/commitscope) |
